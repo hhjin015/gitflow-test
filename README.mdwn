@@ -1,3 +1,5 @@
 1. Project 세팅 완료 (mac)
 
 2. Project fork 완료 (window)
+
+3. upstream 테스트를 위해서 Mac에서 README 수정함 (mac):

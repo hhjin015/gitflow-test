@@ -1,0 +1,17 @@
+# 순서
+
+1. 원격 저장소 fork 및 pull request
+2. 원격 저장소와 싱크 및 upstream 생성 및 변경 사항 저장
+
+## 원격 저장소 fork 및 pull request
+
+master branch 
+## upstream 
+깃 원격 저장소 동기화
+```
+>>> git remote add upstream OWNER_REPO/REPO_NAME
+>>> git fetch upstream
+>>> git checkout master
+>>> git merget upstream/master
+```
+

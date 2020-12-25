@@ -14,4 +14,12 @@ master branch
 >>> git checkout master
 >>> git merget upstream/master
 ```
+# Gitflow
+깃 플로우 브랜치 목록
 
+- master
+- develop
+- feature
+- hotfix
+
+-

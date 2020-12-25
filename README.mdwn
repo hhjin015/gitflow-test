@@ -1,1 +1,3 @@
-1. Project 세팅 완료
+1. Project 세팅 완료 (mac)
+
+2. Project fork 완료 (window)
